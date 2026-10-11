@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Database (generated locally, not uploaded)
+pahub.db
+*.db
+*.sqlite3
+
+# Uploaded files (may contain user data)
+uploads/
+
+# Logs (may contain IPs and other sensitive info)
+*.log
+
+# Environment variables (contain secrets)
+.env
